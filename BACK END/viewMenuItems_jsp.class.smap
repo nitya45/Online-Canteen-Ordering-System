@@ -1,0 +1,18 @@
+SMAP
+viewMenuItems_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewMenuItems.jsp
+admin/viewMenuItems.jsp
+*L
+5,51:47
+56,12:99
+67,2:111
+69,4:113,3
+73:125
+74,2:126,3
+76,4:132
+80,10:137
+89,9:147
+*E

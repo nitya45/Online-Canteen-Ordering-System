@@ -1,0 +1,20 @@
+SMAP
+waiter_005fdashboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 waiter_dashboard.jsp
+waiter/waiter_dashboard.jsp
+*L
+5,26:46
+31:72,2
+32:74
+32,3:75
+34,2:78
+36,3:80,3
+39,2:89
+41:91,3
+42,4:94
+46:98,3
+47,8:101
+*E
