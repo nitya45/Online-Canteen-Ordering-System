@@ -175,9 +175,9 @@ mvn spring-boot:run
 
 ## 👨‍💻 Contributor
 
-**Prince Rajput** – Leader , Frontend , Backend And Database .
+**Prince Rajput** – Leader , Frontend , Backend And Database :https://github.com/Pr-09 . 
 
-**Nityanand Dwivedi** – Developer, Frontend , Backend , synopsis, PPT , Management And Content.
+**Nityanand Dwivedi** – Developer, Frontend , Backend , synopsis, PPT , Management And Content : https://github.com/nitya45 .
 
 ---
 
